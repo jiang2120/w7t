@@ -7,7 +7,7 @@
 
 @section('content')
     <h1 class='title'>
-    关于W7T.CN（微去淘）
+     使用说明
     </h1>
 
 <div class='about-contents'>
